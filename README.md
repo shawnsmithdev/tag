@@ -1,5 +1,5 @@
 # MP3/MP4/OGG/FLAC metadata parsing library
-[![Build Status](https://travis-ci.org/shawnsmithdev/tag.svg?branch=sps-tag)](https://travis-ci.org/shawnsmithdev/tag)
+[![Build Status](https://travis-ci.org/shawnsmithdev/tag.svg?branch=ssd-tag)](https://travis-ci.org/shawnsmithdev/tag)
 [![GoDoc](https://godoc.org/github.com/shawnsmithdev/tag?status.svg)](https://godoc.org/github.com/shawnsmithdev/tag)
 
 This package provides MP3 (ID3v1,2.{2,3,4}) and MP4 (ACC, M4A, ALAC), OGG and FLAC metadata detection, parsing and artwork extraction.
